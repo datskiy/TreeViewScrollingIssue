@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TreeViewScrollingIssue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TreeViewScrollingIssue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
